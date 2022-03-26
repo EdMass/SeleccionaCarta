@@ -1,4 +1,4 @@
-package co.com.sofka.mentoring35;
+package co.com.sofka.mentoring35.repository;
 
 import java.util.Date;
 
@@ -12,12 +12,6 @@ public class Random {
     private String id;
 
     private String carta;
-
-    private String randomList;
-
-    public String getRandomList() {
-        return randomList;
-    }
 
     public Date getDate() {
         return date;

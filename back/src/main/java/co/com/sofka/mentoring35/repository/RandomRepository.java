@@ -1,4 +1,4 @@
-package co.com.sofka.mentoring35;
+package co.com.sofka.mentoring35.repository;
 
 import org.springframework.data.repository.reactive.ReactiveCrudRepository;
 

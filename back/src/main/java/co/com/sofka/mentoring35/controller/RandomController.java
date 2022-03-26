@@ -1,7 +1,9 @@
-package co.com.sofka.mentoring35;
+package co.com.sofka.mentoring35.controller;
 
 import java.util.Date;
 
+import co.com.sofka.mentoring35.repository.Random;
+import co.com.sofka.mentoring35.repository.RandomRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;

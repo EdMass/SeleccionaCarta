@@ -1,22 +1,8 @@
-# Mentoring dia 35
-
-### TEMARIO: 
-
-Para Reactjs (/front)
-- React con Redux
-- Estructura de Redux y Diseño
-
-Para de Spring Boot (/back)
-- CRUD con mongodb
-- Reactividad con web flux
-- Hacer pruebas del controlador
-
-
-### PROBLEMA
-
-Crear una ventana en ReactJS que me permite renderizar una lista aleatoria que se le pase por una caja de texto dentro de un formulario, ingresar una lista separadas por coma y hacer submit de esa lista. El dato random se debe consultar a través de una API REST reactiva que esta diseñada con Spring Boot + Webflux. 
+# Seleccionar Carta 
 
 
 
+![Captura](https://user-images.githubusercontent.com/89874279/160221096-daca3b75-0abf-445e-9f59-77da8c2bd71b.PNG)
 
 
+![Captura 2](https://user-images.githubusercontent.com/89874279/160221098-ea92388d-bdcb-40e2-adbb-29e2e77cb0d1.PNG)

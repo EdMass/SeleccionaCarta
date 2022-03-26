@@ -2,9 +2,9 @@ import React from 'react'
 import { connect } from 'react-redux';
 const Result = (props) => {
   
-  return <div>
+  return <h2>
      {props.result && 'La Carta es: '+ props.result } 
-  </div>
+  </h2>
 }
 
 

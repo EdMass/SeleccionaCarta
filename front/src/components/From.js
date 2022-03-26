@@ -13,13 +13,11 @@ const From = (props) => {// component stateless
 
   return <>
     <form onSubmit={onSubmit}>
-      <label htmlFor="list">Ingrese una lista separada por comas:</label>
+      <label htmlFor="list">Clickea para seleccionar una carta:</label>
       <br />
-      <textarea id="list" style={{ width: "300px", height: "120px" }} 
-        onChange={(e) => setState(e.target.value)}
-      ></textarea>
+      
       <br />
-      <button type="submit" disabled={props.loading}>
+      <button type="submit" className='btn btn-success' disabled={props.loading}>
         Selecciona
       </button>
     </form>
